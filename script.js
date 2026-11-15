@@ -4,6 +4,6 @@ searchInput.addEventListener("input",
     function(){
         const query = searchInput.value.toLowerCase();
 
-        console.log("Searching for:", query);
+        console.log("Searching for the:", query);
     }
 );
