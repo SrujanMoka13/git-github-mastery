@@ -1,0 +1,15 @@
+body{
+    background-color: #f4f4f9;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+h1{
+    color: #333333;
+}
+
+.highlight{
+    color : #0066cc;
+    font-weight: bold;
+}
